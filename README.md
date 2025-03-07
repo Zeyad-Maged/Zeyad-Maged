@@ -30,14 +30,6 @@ Passionate about **teaching, mentoring, and developing impactful software**, I h
 | **Databases** | ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) |
 | **Teaching & Mentorship** | Curriculum Development, Project Management |
 
-
----
-
-## 🎯 Currently Learning  
-- ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) &nbsp; **Advanced .NET Development**  
-- ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white) &nbsp; **Blazor for Web Development**  
-- ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) &nbsp; **Database Optimization & Management**  
-- ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white) &nbsp; **Web API & Backend Development**  
   
 ---
 
