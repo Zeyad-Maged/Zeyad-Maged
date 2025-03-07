@@ -24,11 +24,10 @@ Passionate about **teaching, mentoring, and developing impactful software**, I h
 ### 🖥️ **Programming & Development**  
 | **Category**        | **Technologies** |
 |---------------------|-----------------|
-| **Languages**      | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Web Development** | ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![Web APIs](https://img.shields.io/badge/Web_APIs-02569B?style=flat&logo=api&logoColor=white) |
+| **Web Development** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![ASP.NET Web APIs](https://img.shields.io/badge/ASP.NET_Web_APIs-512BD4?style=flat&logo=dotnet&logoColor=white) |
 | **Desktop Development** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![XAML](https://img.shields.io/badge/XAML-0C54C2?style=flat&logo=windows&logoColor=white) |
-| **Mobile Development** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) |
-| **Backend & Databases** | ![REST API](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) |
+| **Mobile Development** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![ASP.NET Web APIs](https://img.shields.io/badge/ASP.NET_Web_APIs-512BD4?style=flat&logo=dotnet&logoColor=white) |
+| **Databases** | ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) |
 | **Teaching & Mentorship** | Curriculum Development, Project Management |
 
 
