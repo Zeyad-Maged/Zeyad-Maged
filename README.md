@@ -1,9 +1,9 @@
 # 👋 Hi, I am Zeyad Maged  
 
 ## 💡 About Me  
-I am a **Software Engineer** and **Curriculum Developer** with expertise in **web and desktop development, .NET technologies, and software architecture**. I specialize in building **scalable web applications, desktop solutions, and full-stack systems** using **ASP.NET, .NET, Web APIs, XAML, HTML, CSS, and JavaScript**.  
+I am a **Full Stack Developer** and **Curriculum Developer** with expertise in **web and desktop development, .NET technologies, and Software Development**. I specialize in building **scalable web applications, desktop solutions, and full-stack systems** using **ASP.NET, .NET, Web APIs, XAML, HTML5, CSS3, and JavaScript**.  
  
-I am looking for an opportunity to work with a **tech company** where I can apply my skills in **software development and engineering** to create impactful solutions.  
+I am looking for an opportunity to work with a **tech company** where I can apply my skills in **software development** to create impactful solutions.  
 
 Passionate about **teaching, mentoring, and developing impactful software**, I have experience in **full-stack development, API integration, curriculum design, and technical education**. My goal is to create efficient and user-friendly applications that bridge the gap between technology and real-world solutions.  
  
@@ -36,4 +36,4 @@ Passionate about **teaching, mentoring, and developing impactful software**, I h
 ## 📫 Let's Connect!  
 📧 **Email:** ziadeid861@gmail.com  
 🌐 **GitHub:** [Zeyad-Maged](https://github.com/Zeyad-Maged)  
-💼 **LinkedIn:** [Zeyad Maged](https://www.linkedin.com/in/zeyadmaged)  
+💼 **LinkedIn:** [zeyadmaged](https://www.linkedin.com/in/zeyadmaged)  
