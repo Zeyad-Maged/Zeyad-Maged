@@ -15,5 +15,4 @@
 
 📫 **Let’s Connect:**
 
-* [LinkedIn](https://linkedin.com/in/zeyad-maged)
-* [GitHub](https://github.com/ZeyadMagedEid)
+* [LinkedIn](https://www.linkedin.com/in/zeyadmaged)
