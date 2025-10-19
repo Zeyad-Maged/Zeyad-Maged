@@ -1,39 +1,19 @@
-# 👋 Hi, I am Zeyad Maged  
+# 👋 Hi, I'm Zeyad Maged Eid
 
-## 💡 About Me  
-I am a **Full Stack Developer** and **Curriculum Developer** with expertise in **web and desktop development, .NET technologies, and Software Development**. I specialize in building **scalable web applications, desktop solutions, and full-stack systems** using **ASP.NET, .NET, Web APIs, XAML, HTML5, CSS3, and JavaScript**.  
- 
-I am looking for an opportunity to work with a **tech company** where I can apply my skills in **software development** to create impactful solutions.  
+🎯 **Software Developer @ SOfCO** — a proud **Microsoft Partner** company specialized in delivering modern business and cloud solutions using Microsoft’s ecosystem.
 
-Passionate about **teaching, mentoring, and developing impactful software**, I have experience in **full-stack development, API integration, curriculum design, and technical education**. My goal is to create efficient and user-friendly applications that bridge the gap between technology and real-world solutions.  
- 
+💻 I focus on building high-performance **web applications** using:
 
----
+* **Frontend:** Blazor
+* **Backend:** ASP.NET Core Web APIs
+* **Databases:** SQL Server & Azure Cosmos DB
+* **Cloud & DevOps:** Azure & Azure DevOps (code reviews, pull requests, and CI/CD collaboration)
 
-## 💡 What I Do  
-🌐 **Web & Desktop Development** – Building dynamic **web applications** with **ASP.NET, .NET, and Web APIs**, alongside **desktop applications** using **XAML and .NET**.  
-🎓 **Tech Education & Mentorship** – Teaching and mentoring students in **.NET, Web Development, and Software Engineering**.  
-🏗 **Curriculum Design** – Creating structured, hands-on programming courses focused on modern technologies.  
-💻 **Full-Stack Development** – Developing both **frontend and backend** solutions using **HTML, CSS, JavaScript, and .NET** to deliver seamless user experiences.  
+🌐 Working in a Microsoft environment allows me to explore and develop with **end-to-end Microsoft technologies** — from frontend and backend development to cloud integration and DevOps workflows.
 
+🚀 I’m passionate about creating clean, scalable, and efficient solutions while always improving my skills in modern .NET development and cloud-based architectures.
 
----
+📫 **Let’s Connect:**
 
-## 🔧 Skills & Technologies  
-
-### 🖥️ **Programming & Development**  
-| **Category**        | **Technologies** |
-|---------------------|-----------------|
-| **Web Development** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![ASP.NET Web APIs](https://img.shields.io/badge/ASP.NET_Web_APIs-512BD4?style=flat&logo=dotnet&logoColor=white) |
-| **Desktop Development** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![XAML](https://img.shields.io/badge/XAML-0C54C2?style=flat&logo=windows&logoColor=white) |
-| **Mobile Development** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![ASP.NET Web APIs](https://img.shields.io/badge/ASP.NET_Web_APIs-512BD4?style=flat&logo=dotnet&logoColor=white) |
-| **Databases** | ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) |
-| **Teaching & Mentorship** | Curriculum Development, Project Management |
-
-  
----
-
-## 📫 Let's Connect!  
-📧 **Email:** ziadeid861@gmail.com  
-🌐 **GitHub:** [Zeyad-Maged](https://github.com/Zeyad-Maged)  
-💼 **LinkedIn:** [zeyadmaged](https://www.linkedin.com/in/zeyadmaged)  
+* [LinkedIn](https://linkedin.com/in/zeyad-maged)
+* [GitHub](https://github.com/ZeyadMagedEid)
