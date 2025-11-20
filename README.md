@@ -4,10 +4,10 @@
 
 💻 I focus on building high-performance **web applications** using:
 
-* **Frontend:** Blazor
-* **Backend:** ASP.NET Core Web APIs
+* **Frontend:** Blazor (WebAssembly & Server)
+* **Backend:** ASP.NET Core Web API
 * **Databases:** SQL Server & Azure Cosmos DB
-* **Cloud & DevOps:** Azure & Azure DevOps (code reviews, pull requests, and CI/CD collaboration)
+* **Cloud & DevOps:** Azure DevOps (code reviews, pull requests, and CI/CD collaboration)
 
 🌐 Working in a Microsoft environment allows me to explore and develop with **end-to-end Microsoft technologies** — from frontend and backend development to cloud integration and DevOps workflows.
 
